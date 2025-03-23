@@ -19,4 +19,4 @@ A simple link shortener built using **HTML, CSS, and JavaScript**, integrated wi
 ## Setup Instructions  
 1️⃣ **Clone the repository:**  
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/VarshaChandak/linkshortner
